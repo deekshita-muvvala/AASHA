@@ -1,0 +1,10 @@
+{
+  "name": "Aasha - Senior Care & Emergency SOS",
+  "description": "Aasha is a comprehensive eldercare and emergency response platform featuring instant SOS beacons, Golden Hour medical profiling, bilingual English & Telugu support, medication adherence tracking, and the Aasha Care AI companion in a serene pastel purple design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
